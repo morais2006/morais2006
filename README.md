@@ -1,31 +1,3 @@
-
-<div align="center">
-
-<table>
-<tr>
-<td width="650" bgcolor="#0D1117">
-
-<p align="left">
-🔴 🟡 🟢 &nbsp; <b>joao-manoel@github: ~</b>
-</p>
-
-<hr>
-
-<p align="left">
-<font color="#3FB950">➜ joao@github:~$</font>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&left=true&vCenter=true&width=550&height=35&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Manoel!;Estudante+de+Engenharia+de+Software;Java+%7C+Python+%7C+SQL;Desenvolvimento+de+Software" />
-
-<p align="left">
-<font color="#3FB950">➜</font> <font color="#8B949E">Sempre aprendendo e desenvolvendo...</font>
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
 # João Manoel de Sousa Morais
 
 <div align="center">
