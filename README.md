@@ -1,5 +1,3 @@
-# João Manoel
-
 <div align="center">
 
 ### João Manoel de Sousa Morais
