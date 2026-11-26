@@ -1,3 +1,11 @@
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&height=60&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Manoel!;Estudante+de+Engenharia+de+Software;Java+%7C+Python+%7C+SQL+%7C+PostgreSQL;Desenvolvimento+de+Software+e+An%C3%A1lise+de+Dados" alt="Terminal animado" />
+
+</div>
+
+
 # João Manoel de Sousa Morais
 
 <div align="center">
