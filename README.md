@@ -1,4 +1,8 @@
-                          ### João Manoel de Sousa Morais
+# João Manoel
+
+<div align="center">
+
+### João Manoel de Sousa Morais
 
 **Software Engineering Student | Java Developer | Data Analysis Enthusiast**
 
