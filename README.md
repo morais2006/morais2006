@@ -36,7 +36,7 @@ My goal is to continuously improve my skills and grow as a software developer.
 - MongoDB
 - HTML & CSS
 - JavaScript
-- Type
+- TypeScript
 
 </td>
 </tr>
